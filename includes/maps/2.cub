@@ -1,0 +1,24 @@
+R 900        480
+
+NO includes/textures/north.xpm
+SO includes/textures/south.xpm
+WE includes/textures/west.xpm
+EA includes/textures/east.xpm
+S includes/textures/imposter.xpm
+F 184,113,39
+C 51,198,227
+
+  1111111
+  11110011111111
+  110000000000001
+ 11100S0011111101
+   1000001   1101
+   10101111111101
+   10100001011101
+   101111011  101
+   101  101   101
+   101  101   101
+   101  101111101
+   10111100000101
+   10000000000001
+    111111111111
